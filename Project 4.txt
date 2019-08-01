@@ -1,0 +1,89 @@
+No Order
+
+Anne    30
+Bob     150
+Ralph   305
+Tim     225
+Barbara 135
+Jane    160
+Steve   80
+Tom     200
+Mike    165
+Shirley 90
+Pam     100
+Frank   120
+
+
+People who can get on the elevator
+
+Anne    30
+Bob     150
+Ralph   305
+Tim     225
+Barbara 135
+Jane    160
+Steve   80
+Number of People: 7
+Total Weight: 1085
+==================================================
+
+Descending order
+Ralph   305
+Tim     225
+Tom     200
+Mike    165
+Jane    160
+Bob     150
+Barbara 135
+Frank   120
+Pam     100
+Shirley 90
+Steve   80
+Anne    30
+
+
+People who can get on the elevator
+
+Ralph   305
+Tim     225
+Tom     200
+Mike    165
+Jane    160
+Anne    30
+Number of People: 6
+Total Weight: 1085
+==================================================
+
+Ascending order
+Anne    30
+Barbara 135
+Bob     150
+Frank   120
+Jane    160
+Mike    165
+Pam     100
+Ralph   305
+Shirley 90
+Steve   80
+Tim     225
+Tom     200
+
+
+People who can get on the elevator
+
+Anne    30
+Barbara 135
+Bob     150
+Frank   120
+Jane    160
+Mike    165
+Pam     100
+Shirley 90
+Steve   80
+Number of People: 9
+Total Weight: 1030
+
+Max number of people rode the elevator on trip 3 with 9 people on elevator.
+
+This program was coded by Hakeem Wilson
+Press any key to continue . . .
